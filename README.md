@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # registration_app_c030324125
 
 A new Flutter project.
@@ -15,3 +16,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# flutter-registration-app
+Aplikasi registrasi event menggunakan Flutter Provider
+>>>>>>> d9200f83be80be8ffdff5f97953f6fbdbd566681
